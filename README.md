@@ -1,5 +1,5 @@
 # Binabox - homework project
 
-Student: 
+Student: Volodymyr Chetverikov
 
-Mentor: 
+Mentor: Alexey Vasylenko
